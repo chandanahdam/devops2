@@ -1,0 +1,1 @@
+Git is a distributed version control system, that allows developers to manage or track changes in the code and multiple people can work on different parts of a project simultaneously. It's so helpful to manage large and complex projects in a large team. you can install in your system
